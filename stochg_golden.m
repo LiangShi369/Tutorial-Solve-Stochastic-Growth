@@ -91,7 +91,7 @@ legend('A low','A medium','A high','location','southeast')
 
 %%
 
-save sg_golden.mat kpol v1 gridk grida consum na
+save sg_golden.mat kpol v1 gridk grida consum na pdfa nk alpha Del
 
 
 
